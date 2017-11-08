@@ -1,0 +1,36 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+
+body {
+  background-color: #23951E;
+  color: #FD9942;
+  margin: 0 10%;
+}
+
+li {color: #FD9942;}
+
+h1, h2, h3 {color: #FD9942; font-weight: bold;}
+img {
+  border: 10px;
+  border-color: #FD9942;
+  border-style: solid;
+  float: right;
+  margin: 0px 40px;
+}
+table {
+  border: 10px;
+  border-width: 0 0 10px 0;
+  border-color: #FD9942;
+  border-style: solid;
+  float: right;
+  margin: 0px 40px;
+}
+th {background-color: #FD9942;
+  color: #23951E;}
+td.trcell {color: #FD9942;}
+td.trcell{;}
+
+}
